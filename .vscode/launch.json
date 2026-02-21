@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "Projetos_Desafios.ControleFluxo.Contador",
+            "projectName": "CursoJava_26487df3"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "Projetos_Desafios.contaBanco.candidatura.ProcessoSeletivo",
+            "projectName": "CursoJava_26487df3"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraDeMedias",
+            "request": "launch",
+            "mainClass": "debugging.CalculadoraDeMedias",
+            "projectName": "CursoJava_26487df3"
+        },
+        {
+            "type": "java",
+            "name": "Depuracao",
+            "request": "launch",
+            "mainClass": "debugging.Depuracao",
+            "projectName": "CursoJava_26487df3"
+        },
+        {
+            "type": "java",
+            "name": "FormatadorCep",
+            "request": "launch",
+            "mainClass": "controleFluxo.estruturasExcecoes.FormatadorCep",
+            "projectName": "CursoJava_26487df3"
+        },
+        {
+            "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "controleFluxo.estruturasRepeticao.ExemploDoWhile",
+            "projectName": "CursoJava_26487df3"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "controleFluxo.estruturasRepeticao.ExemploBreakContinue",
+            "projectName": "CursoJava_26487df3"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "controleFluxo.estruturasRepeticao.ExemploForArray",
+            "projectName": "CursoJava_26487df3"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "controleFluxo.estruturasRepeticao.ExemploFor",
+            "projectName": "CursoJava_26487df3"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "controleFluxo.estruturasCondicionais.PlanoOperadora",
+            "projectName": "CursoJava_26487df3"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "controleFluxo.estruturasCondicionais.SistemaMedida",
+            "projectName": "CursoJava_26487df3"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "controleFluxo.estruturasCondicionais.ResultadoEscolar",
+            "projectName": "CursoJava_26487df3"
+        },
+        {
+            "type": "java",
             "name": "aboutMeScanner",
             "request": "launch",
             "mainClass": "sintaxe.SaidaDeDados.aboutMeScanner",
