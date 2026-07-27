@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "iPhone",
+            "request": "launch",
+            "mainClass": "Projetos_Desafios.iphone.iPhone",
+            "projectName": "cursoJava_a317e0b3"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "Projetos_Desafios.candidatura.ProcessoSeletivo",
+            "projectName": "cursoJava_a317e0b3"
+        },
+        {
+            "type": "java",
             "name": "Contador",
             "request": "launch",
             "mainClass": "Projetos_Desafios.ControleFluxo.Contador",
